@@ -1,0 +1,7 @@
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+vendor/
+composer.json
+_ide_helper.php
